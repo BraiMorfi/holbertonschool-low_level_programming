@@ -1,11 +1,11 @@
 #include <stdio.h>
-
 /**
  * main - print "Programming is like building a multilingual puzzle"
- * return: always 0
+ * followed by a new line
+ * Return: always 0
  */
 int main(void)
 {
-	puts("\"Programming is like building a multilingual puzzle");
+	puts("\"Proframming is like building a miltilingual puzzle");
 	return (0);
 }
