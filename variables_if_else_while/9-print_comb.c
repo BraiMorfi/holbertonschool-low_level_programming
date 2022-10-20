@@ -5,7 +5,7 @@
  */
 int main(void)
 {
-	int mum;
+	int num;
 
 	for (num = 0; num <= 9; num++)
 	{
